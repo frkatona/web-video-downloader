@@ -9,3 +9,5 @@ manifest file input -> mp4 output
  - cleans up
 
 requires ffmpeg as well as os, requests, m3u8, subprocess, imageio_ffmpeg, and shutil python libraries
+
+don't download copyrighted content without user permission
