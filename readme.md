@@ -7,3 +7,5 @@ manifest file input -> mp4 output
  - concatenates
  - converts to mp4
  - cleans up
+
+requires ffmpeg as well as os, requests, m3u8, subprocess, imageio_ffmpeg, and shutil python libraries
