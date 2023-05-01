@@ -10,4 +10,4 @@ manifest file input -> mp4 output
 
 requires ffmpeg as well as os, requests, m3u8, subprocess, imageio_ffmpeg, and shutil python libraries
 
-don't download copyrighted content without user permission
+don't download copyrighted content without owner's permission
